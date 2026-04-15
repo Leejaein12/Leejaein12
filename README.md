@@ -32,7 +32,6 @@
 
 ### 💰 Wage Theft Early Detection Service (In Progress)
 - AI-based service to detect and prevent wage theft in advance
-- **Tech Stack:** Python, FastAPI, Pandas
 
 ### 🤖 AI Cosine Similarity Practice
 - Studying cosine similarity for AI recommendations
